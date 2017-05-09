@@ -15,6 +15,7 @@
 // @include https://docs.microsoft.com/*
 // @include https://developer.mozilla.org/*
 // @include http://developer.mozilla.org/*
+// @include https://aws.amazon.com/*
 // @run-at document-start
 // ==/UserScript==
 
